@@ -142,8 +142,7 @@ int main(){
     cout<<"========================================================"<<endl;
     cout<<"\n\n";
     cout<<"You wake up in an undisclosed location.\nObjective: Escape!\n"<<endl;
-    cout<<"\n*You wake up*"<<endl;
-    cout<<"\nUnknown: Hey, glad you're awake... enter your name?"<<endl;
+    cout<<"\nUnknown: Hey, glad you're awake... enter your name"<<endl;
     cin.getline(name, 100); //User inputs their name
 
     cout<<"\n========== Type NEXT to continue ==========\n"<<endl;
